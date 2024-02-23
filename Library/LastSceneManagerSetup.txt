@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Interior3_bedroom.unity
+- path: Assets/Scenes/Interior2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
