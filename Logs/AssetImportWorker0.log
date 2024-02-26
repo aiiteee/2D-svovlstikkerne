@@ -745,3 +745,19 @@ Received Import Request.
 Start importing Assets/Scenes/Interior2.unity using Guid(8a53ab73e7ff344bc9bb033bfbe4aefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed7354fc4b4fe5c67cd56eb8465fc40') in 0.019542 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 464.565431 seconds.
+  path: Assets/Scenes/Interior3_bedroom.unity
+  artifactKey: Guid(686efbee555cd4ec6b0d7d02f80dc917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Interior3_bedroom.unity using Guid(686efbee555cd4ec6b0d7d02f80dc917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afcebddb3670032cb8c1be32a53a431f') in 0.011792 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.781180 seconds.
+  path: Assets/Scenes/Interior3_mainroom.unity
+  artifactKey: Guid(4cc25392b1fc4413892493fcbbdfee61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Interior3_mainroom.unity using Guid(4cc25392b1fc4413892493fcbbdfee61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21aefe6312650aa2b7fc957c3a56bb67') in 0.011477 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
