@@ -729,3 +729,19 @@ Received Import Request.
 Start importing Assets/Assets/Characters/NPC/All.png using Guid(4d93ebf455f70495797e838d2fcc8443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87603d6de9540723628b3f2bd3622a01') in 0.218547 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 35727.368142 seconds.
+  path: Assets/Scenes/Interior1.unity
+  artifactKey: Guid(05243fdc798d1442a8d6792af901ddad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Interior1.unity using Guid(05243fdc798d1442a8d6792af901ddad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '984a4a83c9f1e77709c211607cb6fb91') in 0.037239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.506083 seconds.
+  path: Assets/Scenes/Interior2.unity
+  artifactKey: Guid(8a53ab73e7ff344bc9bb033bfbe4aefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Interior2.unity using Guid(8a53ab73e7ff344bc9bb033bfbe4aefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed7354fc4b4fe5c67cd56eb8465fc40') in 0.019542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
