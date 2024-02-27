@@ -2,10 +2,17 @@ Unity Editor version:    2022.3.9f1 (ea401c316338)
 Branch:                  2022.3/staging
 Build type:              Release
 Batch mode:              YES
+<<<<<<< HEAD
 macOS version:           Version 13.5 (Build 22G74)
 Darwin version:          22.6.0
 Architecture:            x86_64
 Running under Rosetta:   YES
+=======
+macOS version:           Version 13.5.1 (Build 22G90)
+Darwin version:          22.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+>>>>>>> ef1cdbbe35194646e3f13c2d938b726623528399
 Available memory:        8192 MB
 Using pre-set license
 Pro License: YES
@@ -18,6 +25,7 @@ COMMAND LINE ARGUMENTS:
 -name
 AssetImportWorker1
 -projectPath
+<<<<<<< HEAD
 /Users/agnesmuustougaard/Documents/GitHub/2D-svovlstikkerne
 -logFile
 Logs/AssetImportWorker1.log
@@ -25,6 +33,15 @@ Logs/AssetImportWorker1.log
 56417
 Successfully changed project path to: /Users/agnesmuustougaard/Documents/GitHub/2D-svovlstikkerne
 /Users/agnesmuustougaard/Documents/GitHub/2D-svovlstikkerne
+=======
+/Users/pernillemikkelsen/Downloads/2D-svovlstikkerne
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+53054
+Successfully changed project path to: /Users/pernillemikkelsen/Downloads/2D-svovlstikkerne
+/Users/pernillemikkelsen/Downloads/2D-svovlstikkerne
+>>>>>>> ef1cdbbe35194646e3f13c2d938b726623528399
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -56,6 +73,7 @@ Successfully changed project path to: /Users/agnesmuustougaard/Documents/GitHub/
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Player connection [8714257024] Host "[IP] 192.168.0.238 [Port] 0 [Flags] 2 [Guid] 2856099119 [EditorId] 2856099119 [Version] 1048832 [Id] OSXEditor(0,AirtilhndeAgnes.home) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [8714257024] Host "[IP] 192.168.0.238 [Port] 0 [Flags] 2 [Guid] 2856099119 [EditorId] 2856099119 [Version] 1048832 [Id] OSXEditor(0,AirtilhndeAgnes.home) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -72,10 +90,29 @@ Metal devices available: 1
 0: Apple M1 (high power)
 Using device Apple M1 (high power)
 Initializing Metal device caps: Apple M1
+=======
+Player connection [140704745359104] Host "[IP] 10.74.64.62 [Port] 0 [Flags] 2 [Guid] 2926202678 [EditorId] 2926202678 [Version] 1048832 [Id] OSXEditor(0,Pernilles-MacBook-Pro-2.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [140704745359104] Host "[IP] 10.74.64.62 [Port] 0 [Flags] 2 [Guid] 2926202678 [EditorId] 2926202678 [Version] 1048832 [Id] OSXEditor(0,Pernilles-MacBook-Pro-2.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.9f1 (ea401c316338)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/pernillemikkelsen/Downloads/2D-svovlstikkerne/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Metal devices available: 1
+0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+>>>>>>> ef1cdbbe35194646e3f13c2d938b726623528399
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -87,10 +124,28 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.945 seconds
 Domain Reload Profiling: 1631ms
 	BeginReloadAssembly (279ms)
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56230
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.9f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010073 seconds.
+- Loaded All Assemblies, in  0.694 seconds
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.476 seconds
+Domain Reload Profiling: 1170ms
+	BeginReloadAssembly (217ms)
+>>>>>>> ef1cdbbe35194646e3f13c2d938b726623528399
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 		CreateAndSetChildDomain (3ms)
 	RebuildCommonClasses (50ms)
 	RebuildNativeTypeToScriptingClass (12ms)
@@ -114,10 +169,36 @@ Domain Reload Profiling: 1631ms
 			BeforeProcessingInitializeOnLoad (11ms)
 			ProcessInitializeOnLoadAttributes (542ms)
 			ProcessInitializeOnLoadMethodAttributes (202ms)
+=======
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (61ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (105ms)
+	LoadAllAssembliesAndSetupDomain (291ms)
+		LoadAssemblies (219ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (285ms)
+			TypeCache.Refresh (281ms)
+				TypeCache.ScanAssembly (258ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (477ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (366ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (255ms)
+			ProcessInitializeOnLoadMethodAttributes (82ms)
+>>>>>>> ef1cdbbe35194646e3f13c2d938b726623528399
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
+<<<<<<< HEAD
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
@@ -185,3 +266,62 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+=======
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Assertion failed on expression: 'IsFileCreated(assemblyPath)'
+Compilation Pipeline: Could not read file Packages/com.unity.textmeshpro/Scripts/Runtime/Unity.TextMeshPro.asmdef
+Fatal Error! Compilation Pipeline: Could not read file Packages/com.unity.textmeshpro/Scripts/Runtime/Unity.TextMeshPro.asmdef
+Obtained 35 stack frames.
+#0  0x007ff81cec7202 in __pthread_kill
+#1  0x007ff81ce25b45 in abort
+#2  0x000001062d94fe in CrashDontLaunchBugReporter()
+#3  0x00000104cb2c73 in EditorMonoConsole::LogToConsoleImplementation(CppLogEntry&)
+#4  0x00000104cb219b in EditorMonoConsole::LogToConsoleImplementation(DebugStringToFileData const&)
+#5  0x00000104cb419b in LogToConsoleImplementation(DebugStringToFileData const&)
+#6  0x00000105b6eb02 in DebugStringToFilePostprocessedStacktrace(DebugStringToFileData const&)
+#7  0x00000105b6f30d in DebugStringToFile(DebugStringToFileData const&)
+#8  0x00000105221b95 in RegisterAssemblyDefinition(core::basic_string<char, core::StringStorageDefault<char>> const&)
+#9  0x00000105689cd8 in UpdateScriptCompilationPipelineCaches(ScriptChanges const&, bool)
+#10 0x0000010568a80a in WorkerInitializeAndProcessScriptChanges()
+#11 0x00000104e5d5be in Application::InitializeProject()
+#12 0x000001062e602b in -[EditorApplication applicationDidFinishLaunching:]
+#13 0x007ff81cfd06f8 in __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__
+#14 0x007ff81d06945e in ___CFXRegistrationPost_block_invoke
+#15 0x007ff81d0693b3 in _CFXRegistrationPost
+#16 0x007ff81cfa3987 in _CFXNotificationPost
+#17 0x007ff81de0fb60 in -[NSNotificationCenter postNotificationName:object:userInfo:]
+#18 0x007ff82007cf51 in -[NSApplication _postDidFinishNotification]
+#19 0x007ff82007cc9f in -[NSApplication _sendFinishLaunchingNotification]
+#20 0x007ff82007a9c2 in -[NSApplication(NSAppleEventHandling) _handleAEOpenEvent:]
+#21 0x007ff82007a618 in -[NSApplication(NSAppleEventHandling) _handleCoreEvent:withReplyEvent:]
+#22 0x007ff81de3aad4 in -[NSAppleEventManager dispatchRawAppleEvent:withRawReply:handlerRefCon:]
+#23 0x007ff81de3a946 in _NSAppleEventManagerGenericHandler
+#24 0x007ff823429033 in _AppleEventsCheckInAppWithBlock
+#25 0x007ff82342889f in _AppleEventsCheckInAppWithBlock
+#26 0x007ff823421ec4 in aeProcessAppleEvent
+#27 0x007ff826a69c48 in AEProcessAppleEvent
+#28 0x007ff8200755a6 in _DPSNextEvent
+#29 0x007ff820074106 in -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+#30 0x007ff820066788 in -[NSApplication run]
+#31 0x007ff82003a9a1 in NSApplicationMain
+#32 0x00000106302175 in EditorMain(int, char const**)
+#33 0x000001063024a9 in main
+#34 0x007ff81cba541f in start
+>>>>>>> ef1cdbbe35194646e3f13c2d938b726623528399

@@ -44,3 +44,6 @@ TagManager:
   - name: Background
     uniqueID: 3317119193
     locked: 0
+  - name: Cinematic
+    uniqueID: 464671693
+    locked: 0
