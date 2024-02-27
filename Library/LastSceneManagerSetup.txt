@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/Movement.unity
-=======
-- path: Assets/Scenes/Interior2.unity
->>>>>>> ef1cdbbe35194646e3f13c2d938b726623528399
   isLoaded: 1
   isActive: 1
   isSubScene: 0

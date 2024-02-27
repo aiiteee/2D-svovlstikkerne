@@ -386,6 +386,7 @@
 "Assets/BlackGradientScale.cs"
 "Assets/PlayerMovement.cs"
 "Assets/Scripts/GradientBorders.cs"
+"Assets/Scripts/NewMonoBehaviour.cs"
 "Assets/Test.cs"
 "Assets/Testing.cs"
 -langversion:9.0
