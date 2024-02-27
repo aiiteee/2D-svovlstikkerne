@@ -383,7 +383,9 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/BlackGradientScale.cs"
+"Assets/PlayerMovement.cs"
 "Assets/Scripts/GradientBorders.cs"
+"Assets/Test.cs"
 "Assets/Testing.cs"
 -langversion:9.0
 
